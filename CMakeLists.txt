@@ -22,7 +22,6 @@ src/cmph.c
 src/cmph.h
 src/hash.c
 src/hash.h
-src/main.c
 src/debug.h
 src/graph.c
 src/graph.h
